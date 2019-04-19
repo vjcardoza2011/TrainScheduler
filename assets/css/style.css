@@ -1,0 +1,19 @@
+ body {
+     background-color: lightgray;
+ }
+
+.panel{
+    width: 100%;
+    color: #5766be;
+}
+
+.jumbotron{
+	background-color: #5766be;
+	color: #eeeecc;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
